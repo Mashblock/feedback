@@ -1,4 +1,4 @@
-# holman/feedback
+# Mashblock Open Feedback
 
 This is a quick little ask-me-anything type of repository.
 
@@ -40,5 +40,5 @@ into some of the older threads.
 ### Twitter
 
 If you have something quick and easy, just ping me on Twitter. 140 characters
-makes everyone more efficient. I'm [@holman](https://twitter.com/holman) on
+makes everyone more efficient. Ask [@MashblockNZ](https://twitter.com/MashblockNZ) on
 Twitter.
