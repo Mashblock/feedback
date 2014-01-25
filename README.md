@@ -26,8 +26,6 @@ into some of the older threads.
 
 ---
 
-### Twitter
+### Contact Us
 
-If you have something quick and easy, just ping me on Twitter. 140 characters
-makes everyone more efficient. Ask [@MashblockNZ](https://twitter.com/MashblockNZ) on
-Twitter.
+If you have something quick and easy to ask, just ping us on [Twitter](https://twitter.com/MashblockNZ) or [Facebook](https://facebook.com/mashblock). 
